@@ -16,7 +16,7 @@ Using df.tail() print the last 5 of the CSV file.
 Using len(df.axes[]) print the toal no.of rows and columns with argument 0 for row and argument 1 for column.
     
 ## PROGRAM:
-#Program to read contents from a CSV file.
+#Program to read contents from a CSV file
 #Developed by: AJITH KUMAR A
 #RegisterNumber: 23002150
 ```
